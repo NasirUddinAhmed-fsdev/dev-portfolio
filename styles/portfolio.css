@@ -11,11 +11,21 @@
     color: white;
     font-weight: 700;
     font-size: 20px;
-    height: 64px;
     border: 0;
-    padding: 18px 35px;
+    padding: 15px 34px;
     border-radius: 5px;
     background: #fd6e0a;
+}
+
+.btn-secondary {
+    color: #fd6e0a;
+    background: #fff8f3;
+    border: 1px solid #fd6e0a;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 15px 34px;
+    margin-left: 30px;
 }
 
 /* header and nav styles */
